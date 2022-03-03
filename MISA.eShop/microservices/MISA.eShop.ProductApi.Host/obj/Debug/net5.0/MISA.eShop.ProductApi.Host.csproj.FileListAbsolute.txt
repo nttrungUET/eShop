@@ -1,6 +1,0 @@
-D:\CLONE\MISA.eShop\microservices\MISA.eShop.ProductApi.Host\obj\Debug\net5.0\MISA.eShop.ProductApi.Host.csproj.AssemblyReference.cache
-D:\CLONE\MISA.eShop\microservices\MISA.eShop.ProductApi.Host\obj\Debug\net5.0\MISA.eShop.ProductApi.Host.GeneratedMSBuildEditorConfig.editorconfig
-D:\CLONE\MISA.eShop\microservices\MISA.eShop.ProductApi.Host\obj\Debug\net5.0\MISA.eShop.ProductApi.Host.AssemblyInfoInputs.cache
-D:\CLONE\MISA.eShop\microservices\MISA.eShop.ProductApi.Host\obj\Debug\net5.0\MISA.eShop.ProductApi.Host.AssemblyInfo.cs
-D:\CLONE\MISA.eShop\microservices\MISA.eShop.ProductApi.Host\obj\Debug\net5.0\MISA.eShop.ProductApi.Host.csproj.CoreCompileInputs.cache
-D:\CLONE\MISA.eShop\microservices\MISA.eShop.ProductApi.Host\obj\Debug\net5.0\MISA.eShop.ProductApi.Host.MvcApplicationPartsAssemblyInfo.cache
