@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>MISA.OrderManager</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="4.4.0" />
+    <ProjectReference Include="..\MISA.OrderManager.Application.Contracts\MISA.OrderManager.Application.Contracts.csproj" />
+    <ProjectReference Include="..\MISA.OrderManager.EntityFrameworkCore\MISA.OrderManager.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>MISA.ProductManager</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="4.4.0" />
+    <ProjectReference Include="..\MISA.ProductManager.Application.Contracts\MISA.ProductManager.Application.Contracts.csproj" />
+    <ProjectReference Include="..\MISA.ProductManager.EntityFrameworkCore\MISA.ProductManager.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>
